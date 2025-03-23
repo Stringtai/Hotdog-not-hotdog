@@ -1,12 +1,3 @@
----
-title: Hotdog Not Hotdog
-emoji: 🦀
-colorFrom: red
-colorTo: purple
-sdk: gradio
-sdk_version: 5.22.0
-app_file: app.py
-pinned: false
----
+This is a Machine Learning project I created using a reference from Hugging Face. Its main function is to identify whether an image contains a hotdog or not.
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
